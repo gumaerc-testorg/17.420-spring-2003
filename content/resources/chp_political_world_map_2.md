@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 21ea00c3-51c3-17ca-69d2-ebc4da4f57ec
 resourcetype: Image
 title: Political Map of the World
 uid: 9313e254-543a-11a9-0692-1cc43407461f
