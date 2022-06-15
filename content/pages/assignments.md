@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of past research paper topics for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
