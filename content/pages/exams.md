@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides midterm and final exam questions used for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 0cc193aa-855e-3791-7b43-e0d19bd91f1c
 ---
