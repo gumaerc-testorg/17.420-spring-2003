@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Political Map of the World
 uid: 9313e254-543a-11a9-0692-1cc43407461f
 ---
 Political map of the world. (Image courtesy of the CIA World Fact Book.)
-
