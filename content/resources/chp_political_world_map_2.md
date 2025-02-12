@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Political map of the world. (Image courtesy of the CIA World Fact Book.)
-file: /courses/17-420-advances-in-international-relations-theory-spring-2003/9313e254543a11a906921cc43407461f_chp_political_world_map_2.jpg
+file: /ol-ocw-studio-app/courses/17-420-advances-in-international-relations-theory-spring-2003/9313e254543a11a906921cc43407461f_chp_political_world_map_2.jpg
+file_size: 32203
 file_type: image/jpeg
 image_metadata:
   caption: ''
